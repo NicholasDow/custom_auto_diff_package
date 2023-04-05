@@ -1,0 +1,5 @@
+__pycache__
+.coverage
+coverage.xml
+src/team48_autodiff_package/autoDiff/forward/__pycache__/forward.cpython-39.pyc
+testing_notebook.ipynb
